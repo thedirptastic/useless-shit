@@ -1,12 +1,12 @@
 {
-  "name": "AmoledOrthinanosRed",
-  "description": "Amoled Red revamp of my BetterDiscord theme.",
-  "version": "1.2",
+  "name": "Amoled Alastor",
+  "description": "hello its nice to meet you.",
+  "version": "1.0",
   "color": "#ff2b2b",
   "authors": [
     {
-      "name": "Rosie",
-      "id": "99239287052054528"
+      "name": "me",
+      "id": "1"
     }
   ],
   "theme_color_map": {
@@ -142,6 +142,8 @@
     "PRIMARY_DARK_630": "16171a",
     "PRIMARY_DARK_660": "101010",
     "PRIMARY_DARK_700": "0b0d0c",
+    "PRIMARY_DARK_800": "#08080A",
+    "PRIMARY_DARK_900": "#08080A",
     "BRAND_NEW": "#ff2b2b",
     "BRAND_500": "#c94f4f",
     "STATUS_RED": "#ff2b2b",
